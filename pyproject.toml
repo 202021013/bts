@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bts"
-version = "0.0.0"
+version = "0.1.0"
 description = "bts project"
 authors = ["Jiyeon Kim <202021013@chu.ac.kr>"]
 license = "MIT"
