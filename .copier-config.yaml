@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.2.23
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Jiyeon Kim
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: null
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://202021013.github.io/bts
+email: 202021013@chu.ac.kr
+friendly_name: Bts
+github_repo_name: bts
+github_username: a202021013
+package_name: bts
+project_description: bts pypi project
+project_license: MIT
+project_name: bts
+project_short_description: bts project
+upload_to_release: true
+upload_to_repository: true
+use_source_code_skeleton: true
+

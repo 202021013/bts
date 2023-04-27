@@ -7,6 +7,8 @@
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
+[hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
+
 [pypi-image]: https://img.shields.io/pypi/v/bts
 [license-image]: https://img.shields.io/github/license/a202021013/bts
 [license-url]: https://github.com/a202021013/bts/blob/main/LICENSE
@@ -30,6 +32,8 @@ bts project
 
 bts pypi project
 
+
+
 ## Changelog
 
 See the [CHANGELOG] for more information.
@@ -41,3 +45,9 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
+
+
+## Table of Contents
+
+```{tableofcontents}
+```
