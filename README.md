@@ -30,7 +30,7 @@ bts project
 
 bts pypi project
 
-## Changelog
+## Changelog ~~~
 
 See the [CHANGELOG] for more information.
 
