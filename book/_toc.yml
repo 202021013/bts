@@ -6,3 +6,4 @@ root: index
 chapters:
 - file: usage
 - file: examples
+- file: test
