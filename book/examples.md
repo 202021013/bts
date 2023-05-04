@@ -15,14 +15,14 @@ kernelspec:
 
 # Examples
 
-This page contains a few examples of how you can use Bts package.
+This page contains a few examples of how you can use jejubts package.
 
 ## Installation
 
-You can install Bts using `pip`:
+You can install jejubts using `pip`:
 
 ```{code-cell}
-pip install bts
+pip install jejubts
 ```
 
 ## Usage

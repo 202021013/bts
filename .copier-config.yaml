@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; do NOT edit manually
-_commit: v0.2.23
+_commit: v0.4.8
 _src_path: gh:entelecheia/hyperfast-python-template
 author: Jiyeon Kim
 build_and_release: true
@@ -9,15 +9,19 @@ copyright_year: 2023
 documentaion_tool: jupyter-book
 documentation_url: https://202021013.github.io/bts
 email: 202021013@chu.ac.kr
-friendly_name: Bts
+favicon_path: null
+friendly_name: jejubts
 github_repo_name: bts
-github_username: a202021013
+github_username: '202021013'
+google_analytics_id: null
+logo_path: null
 package_name: bts
 project_description: bts pypi project
 project_license: MIT
-project_name: bts
+project_name: jejubts
 project_short_description: bts project
 upload_to_release: true
 upload_to_repository: true
+use_launch_buttons: false
 use_source_code_skeleton: true
 

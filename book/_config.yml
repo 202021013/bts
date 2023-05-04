@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: "Bts" # The title of the book. Will be placed in the left navbar.
+title: "jejubts" # The title of the book. Will be placed in the left navbar.
 author: "Jiyeon Kim" # The author of the book
 copyright: "2023" # Copyright year to be placed in the footer
-# logo: logo.png # A path to the book logo
+# logo: Path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -29,7 +29,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/a202021013/bts # Online location of your book
+  url: https://github.com/202021013/bts # Online location of your book
   path_to_book: book # Optional path to your book, relative to the repository root
   branch: main # Which branch of the repository should be used when creating links (optional)
 
@@ -38,9 +38,15 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  use_edit_page_button: true
+  # favicon: Path to the favicon image
+  # google_analytics_id: Google Analytics ID
 
 sphinx:
   config:
+    html_extra_path: ["assets"]
+    bibtex_reference_style: author_year
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
     intersphinx_mapping:
       ebp:
         - "https://executablebooks.org/en/latest/"
@@ -83,3 +89,4 @@ sphinx:
     - sphinxcontrib.video
     - sphinxcontrib.mermaid
     - sphinx_thebe
+

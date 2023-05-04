@@ -1,32 +1,32 @@
-# Bts
+# jejubts
 
 [![pypi-image]][pypi-url]
-[![license-image]][license-url]
 [![version-image]][release-url]
 [![release-date-image]][release-url]
+[![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
-[pypi-image]: https://img.shields.io/pypi/v/bts
-[license-image]: https://img.shields.io/github/license/a202021013/bts
-[license-url]: https://github.com/a202021013/bts/blob/main/LICENSE
-[version-image]: https://img.shields.io/github/v/release/a202021013/bts?sort=semver
-[release-date-image]: https://img.shields.io/github/release-date/a202021013/bts
-[release-url]: https://github.com/a202021013/bts/releases
+[pypi-image]: https://img.shields.io/pypi/v/jejubts
+[license-image]: https://img.shields.io/github/license/202021013/bts
+[license-url]: https://github.com/202021013/bts/blob/main/LICENSE
+[version-image]: https://img.shields.io/github/v/release/202021013/bts?sort=semver
+[release-date-image]: https://img.shields.io/github/release-date/202021013/bts
+[release-url]: https://github.com/202021013/bts/releases
 [jupyter-book-image]: https://jupyterbook.org/en/stable/_images/badge.svg
 
-[repo-url]: https://github.com/a202021013/bts
-[pypi-url]: https://pypi.org/project/bts
+[repo-url]: https://github.com/202021013/bts
+[pypi-url]: https://pypi.org/project/jejubts
 [docs-url]: https://202021013.github.io/bts
-[changelog]: https://github.com/a202021013/bts/blob/main/CHANGELOG.md
-[contributing guidelines]: https://github.com/a202021013/bts/blob/main/CONTRIBUTING.md
+[changelog]: https://github.com/202021013/bts/blob/main/CHANGELOG.md
+[contributing guidelines]: https://github.com/202021013/bts/blob/main/CONTRIBUTING.md
 <!-- Links: -->
 
 bts project
 
 - Documentation: [https://202021013.github.io/bts][docs-url]
-- GitHub: [https://github.com/a202021013/bts][repo-url]
-- PyPI: [https://pypi.org/project/bts][pypi-url]
+- GitHub: [https://github.com/202021013/bts][repo-url]
+- PyPI: [https://pypi.org/project/jejubts][pypi-url]
 
 bts pypi project
 
